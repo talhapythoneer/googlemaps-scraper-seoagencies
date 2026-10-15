@@ -1,0 +1,8 @@
+curl_cffi==0.16.3
+beautifulsoup4==4.15.0
+lxml==6.0.2
+pandas==2.3.3
+openpyxl==3.1.5
+selenium==4.47.0
+psutil==7.2.2
+tqdm==4.67.3

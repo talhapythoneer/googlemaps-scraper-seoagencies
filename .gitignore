@@ -1,0 +1,20 @@
+# scraped data (contains personal names, emails, phones)
+output/
+data/
+*.xlsx
+*.csv
+*.jsonl
+
+# proxies / secrets
+proxies.txt
+.env
+
+# python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# placeholder sample output (no real records) is committed
+!sample_output/
+!sample_output/*.csv
